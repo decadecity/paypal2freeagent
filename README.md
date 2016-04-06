@@ -13,3 +13,4 @@ The downloaded file will be converted in place to the [FreeAgent supported forma
 
 ## Caveat user
 This will drop all transactions that aren't marked as being in 'GBP'.
+
